@@ -1,3 +1,7 @@
+#Description
+
+I have build and deploy a corona tracker application. Covered topics: React.js, Chart.js, Material UI, and much more.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
