@@ -1,6 +1,8 @@
-#Description
+## Description
 
 I have build and deploy a corona tracker application. Covered topics: React.js, Chart.js, Material UI, and much more.
+
+### [Live Site](free-covid-tracker.netlify.app)
 
 # Getting Started with Create React App
 
