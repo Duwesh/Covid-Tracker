@@ -12,16 +12,6 @@ I have build and deploy a corona tracker application. Covered topics: React.js, 
 * Displays individual country data in a bar chart format
 <br/>
 
-MORE SCREENSHOTS:
-
-* Line Chart
-
-![](main.gif)
-
-* Bar Chart:
-
-![](country.gif)
-
 API used: https://covid19.mathdro.id/api
 
 Setup:
